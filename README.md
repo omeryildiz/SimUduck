@@ -1,4 +1,5 @@
-strategy
+Strategy Design Pattern
 ========
 
-SimUduck sample in Head First Design pattern. Written with C++ language
+SimUduck sample is written in C++ language. 
+The Original SimUduck is written in Java and taken from book named "Head First Design Pattern".
