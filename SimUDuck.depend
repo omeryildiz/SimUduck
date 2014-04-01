@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1392752359 source:c:\users\Ömer\documents\simuduck\main.cpp
+	<iostream>
+	<Duck.h>
+	<MallardDuck.h>
+	<RubberDuck.h>
+	<DecoyDuck.h>
+	<ModelDuck.h>
+	<FlyWithRocket.h>
+
+1388596302 c:\users\Ömer\documents\simuduck\include\duck.h
+	<FlyBehavior.h>
+
+1392752434 source:c:\users\Ömer\documents\simuduck\src\duck.cpp
+	"Duck.h"
+	<iostream>
+
+1388589084 c:\users\Ömer\documents\simuduck\include\mallardduck.h
+	<Duck.h>
+
+1388508623 c:\users\Ömer\documents\simuduck\include\rubberduck.h
+
+1388504896 c:\users\Ömer\documents\simuduck\include\flyable.h
+
+1388654525 source:c:\users\Ömer\documents\simuduck\src\mallardduck.cpp
+	<MallardDuck.h>
+	<iostream>
+	<Duck.h>
+	<FlyWithWings.h>
+
+1388654649 source:c:\users\Ömer\documents\simuduck\src\flywithwings.cpp
+	"FlyWithWings.h"
+	<iostream>
+
+1388654640 c:\users\Ömer\documents\simuduck\include\flywithwings.h
+	<FlyBehavior.h>
+
+1388654470 c:\users\Ömer\documents\simuduck\include\flybehavior.h
+
+1388528334 source:c:\users\Ömer\documents\simuduck\src\flynoway.cpp
+	"FlyNoWay.h"
+	<iostream>
+
+1388527230 c:\users\Ömer\documents\simuduck\include\flynoway.h
+	<FlyBehavior.h>
+
+1388592885 source:c:\users\Ömer\documents\simuduck\src\decoyduck.cpp
+	"DecoyDuck.h"
+	<iostream>
+
+1388592849 c:\users\Ömer\documents\simuduck\include\decoyduck.h
+	<Duck.h>
+	<FlyNoWay.h>
+
+1388596131 source:c:\users\Ömer\documents\simuduck\src\modelduck.cpp
+	"ModelDuck.h"
+	<FlyNoWay.h>
+	"iostream"
+
+1388596082 c:\users\Ömer\documents\simuduck\include\modelduck.h
+	<Duck.h>
+
+1388596490 source:c:\users\Ömer\documents\simuduck\src\flywithrocket.cpp
+	"FlyWithRocket.h"
+	<iostream>
+
+1388596505 c:\users\Ömer\documents\simuduck\include\flywithrocket.h
+	<FlyBehavior.h>
+
